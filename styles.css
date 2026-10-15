@@ -23,3 +23,10 @@ footer {
         background-color: #ff0095;
     }
 }
+button {
+    background-color: #121212;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}

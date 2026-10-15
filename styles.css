@@ -1,4 +1,25 @@
 
 body {
-    background-color: #00d5ff;
+    background-color: #ff3c00;
+}
+header { 
+    div {
+        background-color: #ff00c3;
+        padding: 10px;
+    }
+    background-color: #ffae00;
+}
+main {
+    background-color: #00ff15;
+    padding: 10px;
+    div {
+        background-color: #ff00d9;
+    }
+}
+footer {
+    background-color: #1c1c1c;
+    padding: 10px;
+    div {
+        background-color: #ff0095;
+    }
 }
